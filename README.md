@@ -1,2 +1,2 @@
 # Empower
-Employee management tool
+Employee management tool using OOP in C++
